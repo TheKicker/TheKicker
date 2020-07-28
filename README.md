@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 <div align="center">
 <hr>
 <h2>👋 Hi there, I'm Cavan Lemasters!</h2>
-<hr>
 I am a 2019 graduate of Geneva College where I earned two Bachelor of Science degrees in Business Administration and Marketing with a minor in Software Development (Web concentration).  I currently work as the eCommerce Analyst at <a href="https://www.fiestafactorydirect.com">The Fiesta Tableware Company</a> and freelance on the side.   
-
-
+<hr>
 </div>
 
 
