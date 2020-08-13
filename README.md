@@ -22,7 +22,7 @@ In 2019, I graduated from Geneva College where I pursued two degrees in Business
 
 <br />
 <hr>
-<h2> Qucik Facts </h2>
+<h2> Quick Facts </h2>
 
 🔭 &nbsp; I’m currently working on <a href="https://github.com/TheKicker/rocket-downrange">RocketDownrange.com</a><br>
 🌱 &nbsp; I’m trying to become a master at Adobe Creative Cloud, view my <a href="https://www.behance.net/cavanlemasters">Adobe Behance profile</a> here. <br>
