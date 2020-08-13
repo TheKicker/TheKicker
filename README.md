@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 </div> 
 
 <h2> I am a digital marketer, a software developer, and proud nerd.</h2>
-In 2019, I graduated from Geneva College where I pursued two degrees in Business Administration and Marketing, with a minor in software development.  I currently work for <a href="https://www.fiestafactorydirect.com">The Fiesta Tableware Company</a> as an eCommerce Analyst, my team and I are responsible for managing our digital presence and the analytics that come with an internationally avaialble storefront.   
+In 2019, I graduated from Geneva College where I pursued two degrees in Business Administration and Marketing, with a minor in software development.  I currently work for <a href="https://www.fiestafactorydirect.com">The Fiesta Tableware Company</a> as an eCommerce Analyst, my team and I are responsible for managing our digital presence and the analytics that come with an internationally available storefront.   
 
 <br />
 <hr>
-<h2> Other Info </h2>
+<h2> Qucik Facts </h2>
 
 🔭 &nbsp; I’m currently working on <a href="https://github.com/TheKicker/rocket-downrange">RocketDownrange.com</a><br>
 🌱 &nbsp; I’m trying to become a master at Adobe Creative Cloud, view my <a href="https://www.behance.net/cavanlemasters">Adobe Behance profile</a> here. <br>
