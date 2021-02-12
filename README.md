@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </div> 
 
 <h2> I am a digital marketer, a software developer, and proud nerd.</h2>
-In 2019, I graduated from Geneva College where I pursued two degrees in Business Administration and Marketing, with a minor in software development.  I currently work for <a href="https://www.fiestafactorydirect.com">The Fiesta Tableware Company</a> as an eCommerce Analyst, my team and I are responsible for managing our digital presence and the analytics that come with an internationally available storefront.   
+In 2019, I graduated from Geneva College where I pursued two degrees in Business Administration and Marketing, with a minor in software development.  I currently work for <a href="https://www.fiestafactorydirect.com">The Fiesta Tableware Company</a> as an eCommerce Analyst, my team and I are responsible for managing our digital presence and the analytics that come with an internationally available storefront. In 2020, I co-founded a digital marketing agency called <a href="https://lc3creative.com" target="_blank" rel="noopener">LC3 Creative</a>, we're just starting out but I am optimistic of the future!  
 
 <br />
 <hr>
@@ -26,8 +26,8 @@ In 2019, I graduated from Geneva College where I pursued two degrees in Business
 
 🔭 &nbsp; I’m currently working on <a href="https://github.com/TheKicker/rocket-downrange">RocketDownrange.com</a><br>
 🌱 &nbsp; I’m trying to become a master at Adobe Creative Cloud, view my <a href="https://www.behance.net/cavanlemasters">Adobe Behance profile</a> here. <br>
-💬 &nbsp; My 2020 goals are to continue learning & growing professionally. [ More info at <a href="https://www.CavLemasters.com">CavLemasters.com</a> ]<br>
-🤔 &nbsp; My dream is to one day open a full-service digital marketing agency and launch my own brand of wine. <br>
+💬 &nbsp; My 2021 goals are to continue learning & growing professionally. [ More info at <a href="https://www.CavLemasters.com">CavLemasters.com</a> ]<br>
+🤔 &nbsp; My dream is to one day launch my own brand of wine, last year's goal of starting a marketing agency happened! :) <br>
 ⚡  &nbsp; Fun fact: In 2020 I became an ambassador for <a href="https://www.makersmark.com/"> Maker's Mark Bourbon</a>!<br>
 📫 &nbsp; The best way to reach me: <a href="https://cavlemasters.com/contact">CavLemasters.com/Contact</a><br>
 <hr>
