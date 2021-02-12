@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </div> 
 
 <h2> I am a digital marketer, a software developer, and proud nerd.</h2>
-In 2019, I graduated from Geneva College where I pursued two degrees in Business Administration and Marketing, with a minor in software development.  I currently work for <a href="https://www.fiestafactorydirect.com">The Fiesta Tableware Company</a> as an eCommerce Analyst, my team and I are responsible for managing our digital presence and the analytics that come with an internationally available storefront. In 2020, I co-founded a digital marketing agency called <a href="https://lc3creative.com" target="_blank" rel="noopener">LC3 Creative</a>, we're just starting out but I am optimistic of the future!  
+In 2019, I graduated from Geneva College where I pursued two degrees in Business Administration and Marketing, with a minor in software development.  I currently work for <a href="https://www.fiestafactorydirect.com">The Fiesta Tableware Company</a> as an eCommerce Analyst, my team and I are responsible for managing our digital presence and the analytics that come with an internationally available storefront. In 2020, I co-founded a full service digital marketing agency called <a href="https://lc3creative.com" target="_blank" rel="noopener">LC3 Creative</a>, we're just starting out but I am optimistic of the future!  
 
 <br />
 <hr>
