@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 </div> 
 
 <h2> I am a digital marketer, a software developer, and proud nerd.</h2>
-In 2019, I graduated from <a href="https://www.geneva.edu/">Geneva College</a> where I pursued two degrees in Business Administration and Marketing, with a minor in software development.  I currently work for <a href="https://www.fiestafactorydirect.com">The Fiesta Tableware Company</a> as an eCommerce Analyst, my team and I are responsible for managing our digital presence and the analytics that come with an internationally available storefront.  
+In 2019, I graduated from <a href="https://www.geneva.edu/">Geneva College</a> where I pursued two degrees in Business Administration and Marketing, with a minor in software development.  I currently work for <a href="https://www.fiestafactorydirect.com">The Fiesta Tableware Company</a> as an eCommerce Analyst, my team and I are responsible for managing our digital presence and the analytics that come with an internationally available storefront.
 
-<br> In 2020, I co-founded the beginnings of a marketing agency called <a href="https://lc3creative.com">LC3 Creative</a> that strives to bring professional grade tools and practices to small businesses.  Right now, we have around 10 clients we work with; covering a variety of topics from web design, social media management, graphic design, search engine optimization, and digital advertising.
+<br>In 2020, I co-founded the beginnings of a marketing agency called <a href="https://lc3creative.com">LC3 Creative</a> that strives to bring professional grade tools and practices to small businesses.  Right now, we have around 10 clients we work with; covering a variety of topics from web design, social media management, graphic design, search engine optimization, and digital advertising.
 
-<br> In 2022, I am taking the deep dive into game development - a hobby I discovered that I enjoy on accident. As of writing this, I'm learning the <a href="https://godotengine.org/">Godot Engine</a>, creating as many projects as I can to build a strong foundational skillset. Not sure where it will go, but it would be neat to have a game on the Steam Store in the future!
+<br>In 2022, I am taking the deep dive into game development - a hobby I discovered that I enjoy on accident. As of writing this, I'm learning the <a href="https://godotengine.org/">Godot Engine</a>, creating as many projects as I can to build a strong foundational skillset. Not sure where it will go, but it would be neat to have a game on the Steam Store in the future!
 
 <br />
 <hr>
