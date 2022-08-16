@@ -22,7 +22,9 @@ In 2019, I graduated from <a href="https://www.geneva.edu/">Geneva College</a> w
 
 <br>In 2020, I co-founded the beginnings of a marketing agency called <a href="https://lc3creative.com">LC3 Creative</a> that strives to bring professional grade tools and practices to small businesses.  Right now, we have around 10 clients we work with; covering a variety of topics from web design, social media management, graphic design, search engine optimization, and digital advertising.
 
-<br>In 2022, I am taking the deep dive into game development - a hobby I discovered that I enjoy on accident. As of writing this, I'm learning the <a href="https://godotengine.org/">Godot Engine</a>, creating as many projects as I can to build a strong foundational skillset. Not sure where it will go, but it would be neat to have a game on the Steam Store in the future!
+<br>In 2022, I am taking the deep dive into game development - a hobby I discovered that I enjoy on accident. As of writing this, I'm learning the <a href="https://godotengine.org/">Godot Engine</a>, creating as many projects as I can to build a strong foundational skillset. Not sure where it will go, but it would be neat to have a game on the Steam Store in the future!  
+
+<br> Check out <a href="https://lunco.space" target="_blank" rel="noopener">LunCo Space</a> for the latest project, a fully customizable space simulation for engineers and enthusiats built on the Godot engine!
 
 <div align="center">
     <h3>
