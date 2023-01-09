@@ -22,7 +22,11 @@ In 2019, I graduated from <a href="https://www.geneva.edu/">Geneva College</a> w
 
 <br>In 2020, I co-founded the beginnings of a marketing agency called <a href="https://lc3creative.com">LC3 Creative</a> that strives to bring professional grade tools and practices to small businesses.  Right now, we have around 10 clients we work with; covering a variety of topics from web design, social media management, graphic design, search engine optimization, and digital advertising.
 
-<br>In 2022, I am taking the deep dive into game development - a hobby I discovered that I enjoy on accident. As of writing this, I'm learning the <a href="https://godotengine.org/">Godot Engine</a>, creating as many projects as I can to build a strong foundational skillset. Not sure where it will go, but it would be neat to have a game on the Steam Store in the future!
+<br>In 2022, I planned to take a dep dive into the Godot Game Engine for game development. God's plan however was a little different and I spent most of the year hustling for my business, and using <a href="https://nodejs.org/en/about/">Node.js</a> but I finished the year starting <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0">Harvard's CS50.</a>
+
+<br> In 2023, I want to finish CS50 and get more advanced at Node JS because of all the capabilities it has.  Eventually, I would like to get into Raspberry Pi.  We'll see what happens!
+
+<br>
 
 <div align="center">
     <h3>
@@ -33,9 +37,10 @@ In 2019, I graduated from <a href="https://www.geneva.edu/">Geneva College</a> w
 <hr>
 <h2> Quick Facts </h2>
 
-🔭 &nbsp; I’m working on <a href="https://github.com/TheKicker/rocket-downrange">RocketDownrange.com</a> and playing/studying <a href="https://godotengine.org/">Godot Engine</a><br>
-🌱 &nbsp; I’m always trying to become stronger at Adobe Creative Cloud, view my <a href="https://www.behance.net/cavanlemasters">Adobe Behance profile here.</a><br>
-💬 &nbsp; My 2022 goals are to continue learning & growing professionally. [ More info at <a href="https://www.CavLemasters.com">CavLemasters.com</a> ]<br>
+🔭 &nbsp; I’m working on <a href="https://github.com/TheKicker/rocket-downrange">RocketDownrange.com</a> and learning more advanced Javascript and Node <br>
+📄 &nbsp; Check out my blog over on <a href="https://medium.com/@Cavlemasters">Medium.com</a> where I talk marketing and programming <br>
+🌱 &nbsp; I’m always trying to become better at Adobe Creative Cloud, view my <a href="https://www.behance.net/cavanlemasters">Adobe Behance profile here.</a><br>
+💬 &nbsp; My 2023 goals are to continue learning & growing professionally. [ More info at <a href="https://www.CavLemasters.com">CavLemasters.com</a> ]<br>
 🤔 &nbsp; My dream is to one day launch my own wine label. Try the <a href="https://www.narcisiwinery.com/collection/click-to-enlarge-de-chaunac-2018">De Chaunac by Narcisi</a>! <br>
 ⚡  &nbsp; Fun fact: In 2020 I became an ambassador for <a href="https://www.makersmark.com/"> Maker's Mark Bourbon</a>!<br>
 📫 &nbsp; The best way to reach me: <a href="https://cavlemasters.com/contact">CavLemasters.com/Contact</a><br>
