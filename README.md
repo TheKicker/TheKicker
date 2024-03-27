@@ -18,13 +18,9 @@ Here are some ideas to get you started:
 </div> 
 
 <h2> I am a digital marketer, a software developer, and proud nerd.</h2>
-In 2019, I graduated from <a href="https://www.geneva.edu/">Geneva College</a> where I pursued two degrees in Business Administration and Marketing, with a minor in software development.  I currently work for <a href="https://www.fiestafactorydirect.com">The Fiesta Tableware Company</a> as an eCommerce Analyst, my team and I are responsible for managing our digital presence and the analytics that come with an internationally available storefront.
+In 2019, I graduated from <a href="https://www.geneva.edu/">Geneva College</a> where I pursued two degrees in Business Administration and Marketing, with a minor in computer science (web engineering).  I currently work for <a href="https://www.symbotic.com/">Symbotic</a> as a Technical Support Engineer (TSE).  
 
 <br>In 2020, I co-founded the beginnings of a marketing agency called <a href="https://lc3creative.com">LC3 Creative</a> that strives to bring professional grade tools and practices to small businesses.  Right now, we have around 10 clients we work with; covering a variety of topics from web design, social media management, graphic design, search engine optimization, and digital advertising.
-
-<br>In 2022, I planned to take a dep dive into the Godot Game Engine for game development. God's plan however was a little different and I spent most of the year hustling for my business, and using <a href="https://nodejs.org/en/about/">Node.js</a> but I finished the year starting <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0">Harvard's CS50.</a>
-
-<br> In 2023, I want to finish CS50 and get more advanced at Node JS because of all the capabilities it has.  Eventually, I would like to get into Raspberry Pi.  We'll see what happens!
 
 <br>
 
@@ -79,4 +75,9 @@ In 2019, I graduated from <a href="https://www.geneva.edu/">Geneva College</a> w
 <img align="left" alt="Swift" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
 
 </div>
+
 <br>
+<br>
+
+<h2>Visitor Count</h2>
+![Visitor Count](https://profile-counter.glitch.me/thekicker/count.svg)
