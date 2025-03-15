@@ -78,8 +78,10 @@ In 2019, I graduated from <a href="https://www.geneva.edu/">Geneva College</a> w
 </div>
 
 <br>
+
 <br>
 
-<h2>My GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=TheKicker&show_icons=true&theme=transparent" alt="GitHub Stats" /><br>
+<h2 align="left">My GitHub Stats</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=TheKicker&show_icons=true&theme=transparent" alt="GitHub Stats" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheKicker&layout=compact&theme=transparent" alt="Top Languages" />
