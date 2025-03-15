@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 <div align="center">
 <hr>
-<h1>Hey there, I'm Cavan Lemasters! 👋 </h1>
+<h1> Hey there, I'm Cavan Lemasters! 👋 </h1>
 </div> 
 
-<h2> I am a digital marketer, a software developer, tech engineer, investor, and proud nerd.</h2>
+<h2> I am a digital marketer, software dev, tech engineer, investor, & proud nerd.</h2>
 In 2019, I graduated from <a href="https://www.geneva.edu/">Geneva College</a> where I pursued two degrees in Business Administration and Marketing, with a minor in computer science (web engineering).  I began my professional career at the Fiesta Tableware Company (formerly Homer Laughlin) as an eCommerce Analyst. I wore many hats there from web developer, to engineering, working tent sales and even managing the outbound mail room.
 
 <br> I currently work for <a href="https://www.symbotic.com/">Symbotic</a> as a T2 Technical Support Engineer (TSE) where I work with the latest technology fixing a variety of problems supporting our customers around the world.  
@@ -33,8 +33,8 @@ In 2019, I graduated from <a href="https://www.geneva.edu/">Geneva College</a> w
 </div>
 <br />
 
-<h2>My favorite languages & tools:</h2>
-
+## My favorite languages & tools:
+<div>
 <img align="left" alt="Windows OS" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/windows/windows.png" />
 <img align="left" alt="Mac OS" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/macos/macos.png" />
 <img align="left" alt="Linux OS" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/linux/linux.png" />
@@ -55,10 +55,11 @@ In 2019, I graduated from <a href="https://www.geneva.edu/">Geneva College</a> w
 <img align="left" alt="Swift" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
 <!-- <img align="left" alt="Swift" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /> -->
 <!-- <img align="left" alt="Swift" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" /> -->
-</br>
+</div>
 
+<br>
 
-<h2 align="left">My GitHub Stats</h2>
+## My GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=TheKicker&show_icons=true&theme=transparent" alt="GitHub Stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheKicker&layout=compact&theme=transparent" alt="Top Languages" />
