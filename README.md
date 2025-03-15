@@ -75,8 +75,6 @@ In 2019, I graduated from <a href="https://www.geneva.edu/">Geneva College</a> w
 
 <img align="left" alt="Swift" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" /> -->
 
-</div>
-
 <br>
 
 <br>
